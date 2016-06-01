@@ -1,4 +1,5 @@
-// Javascript
+/*****************************************     Javascript CodeAcademy ***************************************************/
+//Ex.1
 var cashRegister = {
     total:0,
     //Dont forget to add your property
@@ -34,3 +35,4 @@ cashRegister.scan('chocolate',3);
 console.log(cashRegister.total);
 //Show the total bill
 console.log('Your bill is '+cashRegister.total);
+/********************************************************************************************************************************/
